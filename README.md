@@ -14,4 +14,7 @@ Controls:
 	-down arrow key = get down from platforms 
 
 Rules:
+
 	-eat the brown rectangles to gain time and jetpack fuel, if you run out of time, you lose.
+
+![image](https://user-images.githubusercontent.com/67145369/158260012-d2815bea-d597-4b8c-a5dd-68d787ebf9b6.png)
