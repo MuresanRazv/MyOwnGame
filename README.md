@@ -1,7 +1,7 @@
 # MyOwnGame
 A simple Python game.
 
--In order to run the program you must have Pygame library installed.
+-Just download and run the EXE!
 
 Controls:
 
